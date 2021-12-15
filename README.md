@@ -23,8 +23,6 @@
 <div align = center>
   <a href="https://www.linkedin.com/in/lsouzaz/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=LINK-DO-SEU-LINKEDIN" />
-  <a href="https://steamcommunity.com/id/froost_fps/" alt="Steam">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white=Steam"/>
   <a href="https://www.instagram.com/thesouzaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  </div>
   
