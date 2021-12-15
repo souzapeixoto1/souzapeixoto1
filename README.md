@@ -1,5 +1,5 @@
-
-  🤔 - Me chamo Leonardo e no momento trabalho com <strong>backand</strong>.<br>
+## Olá, me chamo Leonardo Peixoto!
+  🤔 - No momento trabalho com <strong>backand</strong> no estágio Sicredi.<br>
   🌱 - Estudando Java e ferramentas DevOps.
   ##
   
