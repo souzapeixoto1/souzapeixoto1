@@ -1,5 +1,5 @@
 ## Olá, me chamo Leonardo Peixoto!
-  🤔 - Estagiando como <strong>backand</strong> no Sicredi e cursando Análise e Desenvolvimento de Sistemas.<br>
+  🤔 - Estagiando como <strong>back-and</strong> no Sicredi e cursando Análise e Desenvolvimento de Sistemas.<br>
   🌱 - Estudando Java e ferramentas DevOps.
   ##
   
