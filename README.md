@@ -1,6 +1,6 @@
 ## Olá, me chamo Leonardo Peixoto!
   🤔 - <strong>back-and</strong> Formado em Análise e Desenvolvimento de Sistemas.<br>
-  🌱 - Estudando Java e ferramentas DevOps.
+  🌱 - Estudando Java, ferramentas DevOps e trabalhando com Infraestrutura.
   ##
   
 <div align = center>
